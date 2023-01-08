@@ -1,0 +1,27 @@
+
+h2{
+    color:black;
+    
+    
+}
+hr{
+    border-color: rgb(196, 201, 192);
+    border-style: dotted none none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    
+    
+  }
+  img{
+    height: 140px;
+  }
+  .container{
+    margin-left: 50px;
+    margin-top: 100px;
+  }
+  a{
+    text-decoration: none;
+  }
+  
+
